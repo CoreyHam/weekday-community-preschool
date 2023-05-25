@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Weekday Community Preschool Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Weekday Community Preschool website! This project is a website created specifically for a preschool, aimed at providing information and resources to parents, guardians, and anyone interested in their educational program.
 
-## Available Scripts
+## About Weekday Community Preschool
 
-In the project directory, you can run:
+At Weekday Community Preschool, our goal is to provide opportunities for each child to grow and develop his/her social and self-help skills; motor skills (large and fine); cognitive and conceptual skills; and spiritual awareness through an encouraging and secure, Christian preschool setting.
 
-### `npm start`
+## Project Goals
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The main goals of this website project are:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Information**: To provide comprehensive information about the preschool, including their mission, curriculum, enrollment process, and contact details.
 
-### `npm test`
+- **Communication**: To facilitate effective communication between the preschool and parents/guardians, through features like a contact form, and updates on events and activities.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+This website includes the following features:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Home**: An introduction to Weekday Community Preschool, highlighting their values, mission, and approach to early childhood education.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Curriculum**: Detailed information about their curriculum, teaching methods, and learning goals. It provides insights into the various activities and subjects covered in their program.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Enrollment**: A step-by-step guide on how to enroll a child in the preschool. This section includes important dates, required documents, and a downloadable enrollment form.
 
-### `npm run eject`
+- **Contact**: A contact form and their contact information, allowing visitors to reach out with inquiries, feedback, or to schedule a visit to the preschool.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Technologies Used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This website project is built using the following technologies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **React**: A JavaScript library for building user interfaces, enabling efficient and reusable components for the website.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Tailwind CSS**: A utility-first CSS framework that provides a set of pre-designed components and styles to enhance the website's appearance and responsiveness.
 
-## Learn More
+## Contributions
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contributions to the Weekday Community Preschool website project are welcome! If you find any issues, have suggestions for improvements, or would like to add additional features, feel free to submit a pull request. Your involvement is appreciated in making this website a valuable resource for the preschool community.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting the Weekday Community Preschool website!

@@ -13,15 +13,14 @@ export default function Navbar({ fixed }) {
                             to="/"
                         >
                             Weekday Community Preschool
+                            <p className="text-xs">Excellence in Education since 1962</p>
                         </Link>
                         <button
                             className="text-gray-950 cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
                             type="button"
                             onClick={() => setNavbarOpen(!navbarOpen)}
-
                         >
                             <i class="fa-solid fa-bars"></i>
-
                         </button>
                     </div>
                     <div
@@ -35,22 +34,43 @@ export default function Navbar({ fixed }) {
                             <li className="nav-item">
                                 <CustomLink
                                     className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:text-sky-400"
-                                    to="/apply"
-                                >Apply
+                                    to="/"
+                                >Home
                                 </CustomLink>
                             </li>
                             <li className="nav-item">
                                 <CustomLink
                                     className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:text-sky-400"
-                                    to="/programs"
-                                >Programs
+                                    to="/classes"
+                                >Classes
                                 </CustomLink>
                             </li>
                             <li className="nav-item">
                                 <CustomLink
                                     className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:text-sky-400"
-                                    to="/about"
-                                >About
+                                    to="/tuituion"
+                                >Tuition
+                                </CustomLink>
+                            </li>
+                            <li className="nav-item">
+                                <CustomLink
+                                    className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:text-sky-400"
+                                    to="/contact"
+                                >Contact
+                                </CustomLink>
+                            </li>
+                            <li className="nav-item">
+                                <CustomLink
+                                    className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:text-sky-400"
+                                    to="https://venmo.com/code?user_id=3418578439110656122"
+                                >Make a Payment
+                                </CustomLink>
+                            </li>
+                            <li className="nav-item">
+                                <CustomLink
+                                    className="px-3 py-2 flex items-center text-2xl uppercase font-bold leading-snug text-gray-950 hover:text-sky-400"
+                                    to="https://venmo.com/code?user_id=3418578439110656122"
+                                ><i class="fa-brands fa-square-facebook"></i>
                                 </CustomLink>
                             </li>
                         </ul>
